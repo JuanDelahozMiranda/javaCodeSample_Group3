@@ -13,6 +13,7 @@ Lazos Familiares
 5. Run project
    
    -- To execute in Command line --
-5. mvn clean
-6. mvn install
-7. mvn test
+6. mvn clean
+7. mvn install
+8. mvn spring-boot:run #run application
+#9.                     #tests
